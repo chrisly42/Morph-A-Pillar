@@ -4,7 +4,7 @@ The Morph-A-Pillar code simulates Code-a-Pillar body segments.
 
 [Code-a-Pillar](http://fisher-price.mattel.com/shop/en-us/fp/think-learn/code-a-pillar-dkt39) is a cute programmable caterpillar robot for sold for 3-6 years old kids.
 
-![Picture](img/head_with_digispark.jpg "Head part with a Digispark attiny85 mounted simulating five custom segments/blocks)
+![Picture](img/head_with_digispark.jpg "Head part with a Digispark attiny85 mounted simulating five custom segments/blocks")
 
 ### This code was inspired by [Code-A-Pillar by ffleurey](https://github.com/ffleurey/Code-A-Pillar/) and his reverse engineering efforts!
 
